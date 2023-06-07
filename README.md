@@ -1,7 +1,6 @@
-Creative and detail-oriented UI/UX Designer and Frontend Software Engineer (React/Angular) with 2+ years of experience. Proficient in React and Angular, with a strong foundation in HTML, CSS, and JavaScript also TypeScript. Skilled in creating intuitive and visually appealing user interfaces for web applications. Experienced in collaborating with cross-functional teams to deliver successful projects.
+Creative and detail-oriented UI/UX Designer and Frontend Software Engineer (React/Angular) with 2+ years of experience. Proficient in React and Angular, with a strong foundation in HTML, CSS, and JavaScript also TypeScript. Skilled in creating intuitive and visually appealing user interfaces for web applications. Experienced in collaborating with cross-functional teams to deliver successful project.
 
 :coffee: &emsp;Connect with me!
-
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arwithlpd@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@AbdurRahman#3909) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahmansoftw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abdurrahmansoftw)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/abdurrahmansoftw)
@@ -37,7 +36,7 @@ Creative and detail-oriented UI/UX Designer and Frontend Software Engineer (Reac
   </thead>
   <tbody>
    <tr>
-      <td><a href="https://chatapp-jx8l.onrender.com/" target="_blank">chat application</a></td>
+      <td><a href="https://chatapp-jx8l.onrender.com/" target="_blank">Chat Application</a></td>
       <td>A university-specific chat application could be a great way to connect students and faculty. It could provide a platform for discussion, collaboration, and communication</td>
       <td>University Porject </td>
     </tr>
