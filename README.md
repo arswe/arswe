@@ -38,12 +38,12 @@ Creative and detail-oriented UI/UX Designer and Frontend Software Engineer (Reac
    <tr>
       <td><a href="https://chatapp-jx8l.onrender.com/" target="_blank">Chat Application</a></td>
       <td>A university-specific chat application could be a great way to connect students and faculty. It could provide a platform for discussion, collaboration, and communication</td>
-      <td>University Porject </td>
+      <td>University semester final Porject </td>
     </tr>
     <tr>
       <td><a href="https://github.com/arwithlpd/ats" target="_blank">Learner Programmer Developer</a></td>
       <td>Programming related Learning Platform for Bangladesh</td>
-      <td> University Porject </td>
+      <td> University semester final Porject </td>
     </tr>
    <tr>
       <td><a href="https://arwithlpd.netlify.app" target="_blank">Applicant tracking system</a></td>
