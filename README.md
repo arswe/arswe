@@ -29,7 +29,7 @@ Creative and detail-oriented UI/UX Designer and Frontend Software Engineer (Reac
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Projects</b></td>
+      <td><b>Project Name</b></td>
       <td><b>Description</b></td>
       <td><b> For </b></td>
     </tr>
