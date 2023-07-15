@@ -5,11 +5,12 @@ Creative and detail-oriented UI and UX Designer and Frontend Software Engineer (
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arwithlpd@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@AbdurRahman#3909) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahmansoftw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abdurrahmansoftw)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/abdurrahmansoftw)
 
-:hearts: &emsp;I enjoy writing programming and sharing knowledge to people <br/>
-:computer: &emsp;I Spend most of time coding outstanding projects <br/>
-🤟 &emsp;I’m currently learning Develoyment React Angular Project On AWS <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-🤔 &emsp;I’m looking for people who can help me with ideas and executions.<br/>
+:hearts: &emsp; I enjoy writing programming and sharing knowledge to people <br/>
+:computer: &emsp; I Spend most of time coding outstanding projects <br/>
+🤟 &emsp; I’m currently learning Develoyment React Angular Project On AWS <br/>
+:computer: &emsp; Most used line of code `console.log("hello world")` <br/>
+🤔 &emsp; I’m looking for people who can help me with ideas and executions.<br/>
+🤟 &emsp; I love breaking down complex issues in simple words. 
 
 #### Programming:
 
