@@ -6,11 +6,11 @@ Creative and detail-oriented UI and UX Designer and Frontend Software Engineer (
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/abdurrahmansoftw)
 
 :hearts: &emsp; I enjoy writing programming and sharing knowledge to people <br/>
+🤟 &emsp; I love breaking down complex issues in simple words.
 :computer: &emsp; I Spend most of time coding outstanding projects <br/>
 🤟 &emsp; I’m currently learning Develoyment React Angular Project On AWS <br/>
 :computer: &emsp; Most used line of code `console.log("hello world")` <br/>
-🤔 &emsp; I’m looking for people who can help me with ideas and executions.<br/>
-🤟 &emsp; I love breaking down complex issues in simple words. 
+🤔 &emsp; I’m looking for people who can help me with ideas and executions.<br/> 
 
 #### Programming:
 
