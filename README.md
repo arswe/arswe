@@ -1,4 +1,5 @@
-Creative and detail-oriented UI and UX Designer and Frontend Software Engineer (React/Angular) with 2+ years of experience. Proficient in React and Angular, with a strong foundation in HTML, CSS, and JavaScript also TypeScript. Skilled in creating intuitive and visually appealing user interfaces for web applications. Experienced in collaborating with cross-functional teams to deliver successfull project.
+👋 AbdurRahman is a UI/UX Designer & Frontend Software Enginner (React/MERN Stack)
+🚀 He crafts responsive websites where technologies meet creativity With a keen eye for design aesthetics and a knack for crafting seamless user experiences, he bring digital ideas to life.
 
 :coffee: &emsp;Connect with me!
 
