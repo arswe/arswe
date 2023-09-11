@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/abdurrahmansoftw)
 
 :hearts: &emsp; I enjoy writing programming and sharing knowledge to people and developer <br/>
-🤟 &emsp; I love breaking down complex issues in simple words. <br/>
+🌟 &emsp; I love breaking down complex issues in simple words. <br/>
 :computer: &emsp; I Spend most of time coding outstanding projects <br/>
 🤟 &emsp; I’m currently learning Develoyment React Angular Project On AWS <br/>
 :computer: &emsp; Most used line of code `console.log("hello world")` <br/>
