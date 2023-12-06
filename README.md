@@ -11,7 +11,7 @@
 :hearts: &emsp; I enjoy writing programming and sharing knowledge to developer <br/>
 🌟 &emsp; I love breaking down complex issues in simple words. <br/>
 :computer: &emsp; I Spend most of time coding outstanding projects <br/>
-🤟 &emsp; I’m currently learning Develoyment React Angular Project On AWS <br/>
+🤟 &emsp; I’m currently learning Develoyment React and Angular Project On AWS <br/>
 :computer: &emsp; Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp; I’m looking for people who can help me with ideas and executions.<br/> 
 <br/> 
