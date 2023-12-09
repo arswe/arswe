@@ -53,7 +53,7 @@ More It has always been my passion to learn new things, explore new ideas and th
       <td>University semester final Porject </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arwithlpd/ats" target="_blank">Learner Programmer Developer</a></td>
+      <td><a href="https://github.com/arwithlpd/ats" target="_blank">electronic health record</a></td>
       <td>Programming related Learning Platform for Bangladesh</td>
       <td> University semester final Porject </td>
     </tr>
