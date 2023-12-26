@@ -44,7 +44,7 @@ More It has always been my passion to learn new things, explore new ideas and th
   <tbody>
 
    <tr>
-      <td><a href="https://github.com/helpdesk" target="_blank">electronic health record</a></td>
+      <td><a href="https://github.com/helpdesk" target="_blank">Helpdesk</a></td>
       <td>helpdesk is take your issue </td>
       <td> parctics project </td>
     </tr>
@@ -56,7 +56,7 @@ More It has always been my passion to learn new things, explore new ideas and th
     </tr>
 
    <tr>
-      <td><a href="https://github.com/arwithlpd/ats" target="_blank">electronic health record</a></td>
+      <td><a href="https://github.com/arwithlpd/ats" target="_blank">Electronic health record (web based) </a></td>
       <td>Programming related Learning Platform for Bangladesh</td>
       <td> University semester final Porject </td>
     </tr>
