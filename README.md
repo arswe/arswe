@@ -43,7 +43,7 @@ More It has always been my passion to learn new things, explore new ideas and th
 
    <tr>
       <td><a href="https://helpdesk-ecru.vercel.app" target="_blank">Helpdesk</a></td>
-      <td>helpdesk is take your issue </td>
+      <td>helpdesk is take your issue and summarizes </td>
       <td> parctics project </td>
     </tr>
     
