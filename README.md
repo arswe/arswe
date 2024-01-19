@@ -12,6 +12,7 @@
 :computer: &emsp; I Spend most of time coding outstanding projects <br/>
 🤟 &emsp; I'm currently learning Deployment in Cloud system <br/>
 🤔 &emsp; I’m looking for people who can help me with ideas and executions.<br/> 
+
 <br/> 
 More It has always been my passion to learn new things, explore new ideas and thoughts and emphasized on self-development. It has always been my focus on every available opportunity to improve myself skills. I want to pursue my goals with dedication, sincerity, honesty and hard work.
 
