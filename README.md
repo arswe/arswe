@@ -48,7 +48,7 @@ More It has always been my passion to learn new things, explore new ideas and th
       <td> parctics project </td>
     </tr>
     <tr>
-      <td><a href="https://helpdesk-ecru.vercel.app" target="_blank">TSX Games</a></td>
+      <td><a href="https://tsxgames.vercel.app" target="_blank">TSX Games</a></td>
       <td>TSX Games is a video game discovery web app that helps you find new and interesting games to play </td>
       <td> parctics project </td>
     </tr>
