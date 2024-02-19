@@ -10,6 +10,11 @@
 :computer: &emsp; I Spend most of time coding outstanding projects. <br/>
 🤟 &emsp; I'm currently learning Deployment in Cloud system. <br/>
 🤔 &emsp; I’m looking for people who can help me with ideas and executions.<br/> 
+⚡️  Passionate about crafting clean and efficient code that solves real-world problems. <br/>
+🚀 Constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape. <br/>
+🔍 Detail-oriented developer with a knack for debugging and optimizing code for performance. <br/>
+📚 Dedicated to continuous learning and self-improvement through books, courses, and hands-on projects. <br/>
+💡 Inspired by innovation and collaboration, seeking opportunities to contribute to impactful projects. <br/>
 
 <br/> 
 More It has always been my passion to learn new things, explore new ideas and thoughts and emphasized on self-development. It has always been my focus on every available opportunity to improve myself skills. I want to pursue my goals with dedication, sincerity, honesty and hard work.
