@@ -57,11 +57,6 @@ More It has always been my passion to learn new things, explore new ideas and th
       <td>A university-specific chat application could be a great way to connect students and faculty. It could provide a platform for discussion, collaboration, and communication</td>
       <td>University semester final Porject </td>
     </tr>
-    
-   <tr>
-      <td><a href="https://arwithlpd.netlify.app" target="_blank">Applicant tracking system</a></td>
-      <td>An applicant tracking system (ATS) is software for recruiters and employers to track candidates throughout the recruiting and hiring process.</td>
-      <td>Personal Development</td>
-    </tr>
+   
   </tbody>
 </table>
