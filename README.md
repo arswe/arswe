@@ -46,6 +46,11 @@ More It has always been my passion to learn new things, explore new ideas and th
       <td>helpdesk is take your issue and summarizes </td>
       <td> helpdesk project </td>
     </tr>
+     <tr>
+      <td><a href="https://employeemanagementsystem.vercel.app" target="_blank">Employee management System</a></td>
+      <td>helpdesk is take your issue and summarizes </td>
+      <td> helpdesk project </td>
+    </tr>
     <tr>
       <td><a href="https://tsxgames.vercel.app" target="_blank">TSX Games</a></td>
       <td>TSX Games is a video game discovery web app that helps you find new and interesting games to play </td>
