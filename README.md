@@ -48,7 +48,7 @@ More It has always been my passion to learn new things, explore new ideas and th
     </tr>
      <tr>
       <td><a href="https://employeemanagementsystem.vercel.app" target="_blank">Employee management System</a></td>
-      <td>helpdesk is take your issue and summarizes </td>
+      <td>Employee management system is a web application that helps to manage employee information</td>
       <td> helpdesk project </td>
     </tr>
     <tr>
