@@ -47,8 +47,8 @@ More It has always been my passion to learn new things, explore new ideas and th
     </tr>
    <tr>
       <td><a href="https://github.com/arswe/attendance-management-system" target="_blank">Attendance management system</a></td>
-      <td> attendance management system</td>
-      <td> client project </td>
+      <td>Attendance Management System</td>
+      <td> Running project </td>
     </tr>
      <tr>
       <td><a href="https://employeemanagementsystem.vercel.app" target="_blank">Employee management System</a></td>
