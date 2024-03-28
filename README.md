@@ -43,27 +43,27 @@ More It has always been my passion to learn new things, explore new ideas and th
    <tr>
       <td><a href="https://financepr.vercel.app" target="_blank">Finance Pro</a></td>
       <td>Finance Pro is a web application that helps you manage your company's Finances</td>
-      <td> client project </td>
+      <td> Client Project </td>
     </tr>
    <tr>
       <td><a href="https://github.com/arswe/attendance-management-system" target="_blank">Attendance Management System</a></td>
       <td>Attendance Management System</td>
-      <td> Running project </td>
+      <td> Running Project </td>
     </tr>
      <tr>
       <td><a href="https://employeemanagementsystem.vercel.app" target="_blank">Employee management System</a></td>
       <td>Employee management system is a web application that helps to manage employee information</td>
-      <td> client project </td>
+      <td> Client Project </td>
     </tr>
    <tr>
       <td><a href="https://helpdesk-ecru.vercel.app" target="_blank">Helpdesk</a></td>
       <td>helpdesk is take your issue and summarizes </td>
-      <td> client project </td>
+      <td> Client Project </td>
     </tr>
     <tr>
       <td><a href="https://tsxgames.vercel.app" target="_blank">TSX Games</a></td>
       <td>TSX Games is a video game discovery web app that helps you find new and interesting games to play </td>
-      <td> typoescript practics project </td>
+      <td> Typoescript Practics Project </td>
     </tr>
     
    <tr>
