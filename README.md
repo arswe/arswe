@@ -42,11 +42,11 @@ More It has always been my passion to learn new things, explore new ideas and th
   <tbody>
    <tr>
       <td><a href="https://financepr.vercel.app" target="_blank">Finance Pro</a></td>
-      <td>Finance Pro is a web application that helps you manage your company's finances</td>
+      <td>Finance Pro is a web application that helps you manage your company's Finances</td>
       <td> client project </td>
     </tr>
    <tr>
-      <td><a href="https://github.com/arswe/attendance-management-system" target="_blank">Attendance management system</a></td>
+      <td><a href="https://github.com/arswe/attendance-management-system" target="_blank">Attendance Management System</a></td>
       <td>Attendance Management System</td>
       <td> Running project </td>
     </tr>
