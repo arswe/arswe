@@ -1,5 +1,5 @@
 ### 👋 AbdurRahman is a Frontend Software Enginner (React | Next | Angular) <br/>
-🚀 He crafts responsive websites where technologies meet creativity With a keen eye for design aesthetics and a knack for crafting seamless user experiences, he bring digital ideas to life.
+🚀 He crafts responsive websites where technologies meet creativity With a keen eye for design aesthetics and a knack for crafting seamless user experiences, he bring digital ideas to life with Programming, Internet, Framework, Database, Git, API Design, Integration, Cloud.
 
 :coffee: &emsp;Connect with me!
 
@@ -14,7 +14,7 @@
 💡 &emsp; Inspired by innovation and collaboration, seeking opportunities to contribute to impactful projects. <br/>
 
 <br/> 
-More It has always been my passion to learn new things, explore new ideas and thoughts and emphasized on self-development. It has always been my focus on every available opportunity to improve myself skills. I want to pursue my goals with dedication, sincerity, honesty and hard work. Programming, Internet, Framework, Database, Git, API Design, Integration, Cloud
+More It has always been my passion to learn new things, explore new ideas and thoughts and emphasized on self-development. It has always been my focus on every available opportunity to improve myself skills. I want to pursue my goals with dedication, sincerity, honesty and hard work.
 
 #### Programming Fundamentals:
 
