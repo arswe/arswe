@@ -7,7 +7,6 @@
  
 :hearts: &emsp; I enjoy writing programming and sharing knowledge to developer <br/>
 🌟 &emsp; I love breaking down complex issues in simple word. <br/>
-:computer: &emsp; I Spend most of time coding outstanding projects. <br/>
 🤟 &emsp; I'm currently learning Deployment in Cloud system. <br/>
 🤔 &emsp; I’m looking for people who can help me with ideas and executions.<br/> 
 ⚡️  &emsp; Passionate about crafting clean and efficient code that solves real-world problems. <br/>
