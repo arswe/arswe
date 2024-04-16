@@ -4,43 +4,16 @@
 
 🚀 He crafts responsive websites where technologies meet creativity With a keen eye for design aesthetics and a knack for crafting seamless user experiences, he bring digital ideas to life with Programming, Internet, Framework, Database, Git, API Design, Integration, Cloud.
 
-```javascript
-const abdurRahman = {
-  pronouns: 'He' | 'Him',
-  code: ['Javascript', 'Typescript', 'Java'],
-  askMeAbout: ['web dev', 'tech', 'app dev', 'design'],
-  technologies: {
-    frontEnd: {
-      js: ['React', 'Next', 'Angular'],
-      css: ['Material-UI', 'Bootstrap', 'Tailwind'],
-    },
-    backEnd: {
-      js: ['Node', 'Express', 'Nest'],
-      java: ['Spring Boot'],
-    },
-    databases: ['MySQL', 'Postgres', 'MongoDB'],
-    devOps: ['Docker', 'AWS', 'Nginx'],
-    misc: ['Firebase', 'Prisma', 'GraphQL'],
-  },
-  architecture: ['Serverless Architecture', 'Progressive Web Applications', 'Single Page Applications'],
-  currentFocus: 'Frontend Development',
-  funFact: 'There are two ways to write error-free programs; only the third one works',
-}
-```
-
-
 :coffee: &emsp;Connect with me!
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/EFNBCQZZPD4TK1) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmansoftw@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arswe) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/AbdurRahmanswe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/arswes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arsweins/) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@arsweins)<br/>
 
 :hearts: &emsp; I enjoy writing programming and sharing knowledge to developer <br/>
-:computer: &emsp; I am a Frontend Software Engineer with a passion for building web applications that are user-friendly and visually appealing. <br/>
-:seedling: &emsp; I am always looking for new challenges and opportunities to learn and grow as a developer. <br/>
-:books: &emsp; I am currently learning more about React, Next.js, Angular, and other frontend technologies. <br/>
-:mailbox: &emsp; I am also interested in learning more about backend development and cloud computing. <br/>
-:dart: &emsp; My goal is to become a full-stack developer and work on projects that have a positive impact on people's lives. <br/>
-:handshake: &emsp; Feel free to reach out to me if you have any questions or would like to collaborate on a project. <br/>
-:trophy: &emsp; I am always looking for new opportunities to collaborate with other developers and work on interesting projects. <br/>
+🌟 &emsp; I love breaking down complex issues in simple word. <br/>
+🤟 &emsp; I'm currently learning Deployment in Cloud system. <br/>
+🤔 &emsp; I’m looking for people who can help me with ideas and executions.<br/>
+⚡️ &emsp; Passionate about crafting clean and efficient code that solves real-world problems. <br/>
+💡 &emsp; Inspired by innovation and collaboration, seeking opportunities to contribute to impactful projects. <br/>
 
 <br/>
 More It has always been my passion to learn new things, explore new ideas and thoughts and emphasized on self-development. It has always been my focus on every available opportunity to improve myself skills. I want to pursue my goals with dedication, sincerity, honesty and hard work.
