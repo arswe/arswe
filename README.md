@@ -10,10 +10,10 @@
 
 :hearts: &emsp; I enjoy writing programming and sharing knowledge to developer <br/>
 :computer: &emsp; I am a Frontend Software Engineer with a passion for building web applications that are user-friendly and visually appealing. <br/>
-:seedling: I am always looking for new challenges and opportunities to learn and grow as a developer. <br/>
+:seedling: &emsp; I am always looking for new challenges and opportunities to learn and grow as a developer. <br/>
 :books: &emsp; I am currently learning more about React, Next.js, Angular, and other frontend technologies. <br/>
 :briefcase: &emsp; I am open to new opportunities and collaborations. <br/>
-:mailbox: I am also interested in learning more about backend development and cloud computing. <br/>
+:mailbox: &emsp; I am also interested in learning more about backend development and cloud computing. <br/>
 :dart: &emsp; My goal is to become a full-stack developer and work on projects that have a positive impact on people's lives. <br/>
 :handshake: &emsp; Feel free to reach out to me if you have any questions or would like to collaborate on a project. <br/>
 :trophy: &emsp; I am always looking for new opportunities to collaborate with other developers and work on interesting projects. <br/>
