@@ -4,12 +4,19 @@
 
 🚀 He crafts responsive websites where technologies meet creativity With a keen eye for design aesthetics and a knack for crafting seamless user experiences, he bring digital ideas to life with Programming, Internet, Framework, Database, Git, API Design, Integration, Cloud.
 
-:coffee: &emsp;Connect with me!
+:coffee: &emsp;Connect with me! and 📫 How to reach me:
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/EFNBCQZZPD4TK1) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmansoftw@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arswe) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/AbdurRahmanswe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/arswes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arsweins/) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@arsweins)<br/>
 
-:hearts: &emsp; I enjoy writing programming and sharing knowledge to developer <br/>
-:seedling: &emsp; I’m currently learning Next.js, Angular, NestJS, Prisma, GraphQL, AWS, Docker, Kubernetes, Microservices, CI/CD, DevOps, and more
+♥️  I enjoy programming and sharing knowledge with others <br/>
+🌱  I’m currently learning more about React Query, Prisma, and NestJS <br />
+👯  I’m looking to collaborate on open source projects <br/>
+🤔  I’m looking for help with learning more about AWS <br/>
+💬  Ask me about anything related to Javascript, Typescript <br />
+
+🛠 &nbsp; Full Stack Javascript | TypeScript Software Engineer <br/>
+📫  How to reach me: [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmansofte@gmail.com) <br/>
+⚡  Fun fact: I love to travel and explore new places <br/>
 
 ### 🛠 &nbsp;Tech Stack
 
