@@ -13,7 +13,7 @@
 👯  I’m looking to collaborate on open source projects <br/>
 🤔  I’m looking for help with learning more about AWS <br/>
 💬  Ask me about anything related to Javascript, Typescript <br />
-📫  How to reach me: mailto:abdurrahmansofte@gmail.com <br/>
+📫  How to reach me: mailto: abdurrahmansofte@gmail.com <br/>
 ⚡  Fun fact: I love to travel and explore new places <br/>
 
 ### 🛠 &nbsp;Tech Stack
