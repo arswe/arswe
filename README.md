@@ -11,10 +11,11 @@
 ♥️  I enjoy programming and sharing knowledge with others <br/>
 🌱  I’m currently working Full Stack Javascript | TypeScript Software Engineering <br/>
 👯  I’m looking to collaborate on open source projects <br/>
-🤔  I’m looking for help with learning more about AWS <br/>
+🔭  I’m currently working on a few projects <br/>
 💬  Ask me about anything related to Javascript, Typescript <br />
-📫  How to reach me: mailto: abdurrahmansofte@gmail.com <br/>
+📚  I love to read books and learn new things <br/>
 ⚡  Fun fact: I love to travel and explore new places <br/>
+📫  How to reach me: mailto: abdurrahmansoftw@gmail.com <br/>
 
 ### 🛠 &nbsp;Tech Stack
 
