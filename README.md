@@ -6,7 +6,7 @@
 
 :coffee: &emsp;Connect with me!
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/EFNBCQZZPD4TK1) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmansoftw@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arswe) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/AbdurRahmanswe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/arswes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arsweins/) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@arsweins)<br/>
+[![Linkedin Badge](https://img.shields.io/badge/-AbdurRahmanSwe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurrahmanswe/)](https://www.linkedin.com/in/abdurrahmanswe/) [![Instagram Badge](https://img.shields.io/badge/-AbdurRahmanSwe-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/abdurrahmanswe/)](https://www.instagram.com/abdurrahmanswe/) [![Facebook Badge](https://img.shields.io/badge/-AbdurRahmanSwe-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/abdurrahmanswe/)](https://www.facebook.com/abdurrahmanswe/) [![Twitter Badge](https://img.shields.io/badge/-AbdurRahmanSwe-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/abdurrahmanswe)](https://twitter.com/abdurrahmanswe) [![Youtube Badge](https://img.shields.io/badge/-AbdurRahmanSwe-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC9Q6X4vZwJGZv8z1bZJ1n8Q)](https://www.youtube.com/channel/UC9Q6X4vZwJGZv8z1bZJ1n8Q)
 
 :hearts: &emsp; I enjoy writing programming and sharing knowledge to developer <br/>
 🌟 &emsp; I love breaking down complex issues in simple word. <br/>
@@ -14,6 +14,37 @@
 🤔 &emsp; I’m looking for people who can help me with ideas and executions.<br/>
 ⚡️ &emsp; Passionate about crafting clean and efficient code that solves real-world problems. <br/>
 💡 &emsp; Inspired by innovation and collaboration, seeking opportunities to contribute to impactful projects. <br/>
+
+### 🛠 &nbsp;Tech Stack
+
+```Typescript | Javascript
+const abdurRahman = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Typescript", "Java"],
+  askMeAbout: ["Full Stack Javascript | TypeScript Software Engineer"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next"],
+      ts: ["React", "Next", "Angular"],
+      css: ["Material-UI", "Tailwind CSS", "Radix UI", "DaisyUI", "Chakra UI", "Styled-Components",]
+
+    },
+    backEnd: {
+      js: ["Node", "Express", "Nest"],
+      ts: ["ts-Node", "Express", "Nest"],
+    },
+    databases: ["MySQL", "Postgres", "MongoDB"],
+    devOps: ["Docker", "AWS"],
+    misc: ["Firebase", "GraphQL", "Prisma", "Redux", "Redux Toolkit", "React Query", "Testing Library"],
+    orm: ["Prisma","TypeORM", "Sequelize"],
+  },
+  architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
+  currentFocus: "Full Stack Javascript | TypeScript Software Engineer",
+  funFact: "There are two ways to write error-free programs; only the third one works",
+};
+```
+
+<br/>
 
 <br/>
 More It has always been my passion to learn new things, explore new ideas and thoughts and emphasized on self-development. It has always been my focus on every available opportunity to improve myself skills. I want to pursue my goals with dedication, sincerity, honesty and hard work.
