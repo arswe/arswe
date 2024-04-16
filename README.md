@@ -9,22 +9,25 @@
 const abdurRahman = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Typescript", "Java"],
-  askMeAbout: ["Full Stack Javascript | TypeScript Developer"],
+  askMeAbout: ["Full Stack Javascript | TypeScript Software Engineer"],
   technologies: {
     frontEnd: {
-      js: ["React", "Next", "Angular"],
-      css: ["Material-UI", "Bootstrap", "TailwindCSS"],
+      js: ["React", "Next"],
+      ts: ["React", "Next", "Angular"],
+      css: ["Material-UI", "Tailwind CSS", "Radix UI", "DaisyUI", "Chakra UI", "Styled-Components",]
+
     },
     backEnd: {
       js: ["Node", "Express", "Nest"],
-      java: ["Spring Boot"],
+      ts: ["ts-Node", "Express", "Nest"],
     },
     databases: ["MySQL", "Postgres", "MongoDB"],
-    devOps: ["Docker", "AWS", "Nginx"],
-    misc: ["Firebase", "Socket.IO", "Prisma", "GraphQL"],
+    devOps: ["Docker", "AWS"],
+    misc: ["Firebase", "GraphQL", "Prisma", "Redux", "Redux Toolkit", "React Query", "Testing Library"],
+    orm: ["Prisma","TypeORM", "Sequelize"],
   },
   architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
-  currentFocus: "Frontend Development",
+  currentFocus: "Full Stack Javascript | TypeScript Software Engineer",
   funFact: "There are two ways to write error-free programs; only the third one works",
 };
 ```
