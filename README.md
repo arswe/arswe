@@ -3,34 +3,34 @@
 ### 👋 AbdurRahman is a Frontend Software Enginner (React | Next | Angular) <br/>
 
 🚀 He crafts responsive websites where technologies meet creativity With a keen eye for design aesthetics and a knack for crafting seamless user experiences, he bring digital ideas to life with Programming, Internet, Framework, Database, Git, API Design, Integration, Cloud.
+[![website](https://img.shields.io/badge/Portfolio-Website-2648ff?style=flat-square&logo=google-chrome)](https://abdurrahman.live)
 
-```javascript
+```Typescript | Javascript
 const abdurRahman = {
-  pronouns: 'He' | 'Him',
-  code: ['Javascript', 'Typescript', 'Java'],
-  askMeAbout: ['web dev', 'tech', 'app dev', 'design'],
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Typescript", "Java"],
+  askMeAbout: ["Full Stack Javascript | TypeScript Developer"],
   technologies: {
     frontEnd: {
-      js: ['React', 'Next', 'Angular'],
-      css: ['Material-UI', 'Bootstrap', 'Tailwind'],
+      js: ["React", "Next", "Angular"],
+      css: ["Material-UI", "Bootstrap", "TailwindCSS"],
     },
     backEnd: {
-      js: ['Node', 'Express', 'Nest'],
-      java: ['Spring Boot'],
+      js: ["Node", "Express", "Nest"],
+      java: ["Spring Boot"],
     },
-    databases: ['MySQL', 'Postgres', 'MongoDB'],
-    devOps: ['Docker', 'AWS', 'Nginx'],
-    misc: ['Firebase', 'Prisma', 'GraphQL'],
+    databases: ["MySQL", "Postgres", "MongoDB"],
+    devOps: ["Docker", "AWS", "Nginx"],
+    misc: ["Firebase", "Socket.IO", "Prisma", "GraphQL"],
   },
-  architecture: ['Serverless Architecture', 'Progressive Web Applications', 'Single Page Applications'],
-  currentFocus: 'Frontend Development',
-  funFact: 'There are two ways to write error-free programs; only the third one works',
-}
+  architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
+  currentFocus: "Frontend Development",
+  funFact: "There are two ways to write error-free programs; only the third one works",
+};
 ```
 
 :coffee: &emsp;Connect with me!
-
-[![website](https://img.shields.io/badge/Portfolio-Website-2648ff?style=flat-square&logo=google-chrome)](https://abdurrahman.live) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/EFNBCQZZPD4TK1) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmansoftw@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arswe) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/AbdurRahmanswe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/arswes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arsweins/) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@arsweins)<br/>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/EFNBCQZZPD4TK1) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmansoftw@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arswe) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/AbdurRahmanswe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/arswes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arsweins/) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@arsweins)<br/>
 
 :hearts: &emsp; I enjoy writing programming and sharing knowledge to developer <br/>
 :computer: &emsp; I am a Frontend Software Engineer with a passion for building web applications that are user-friendly and visually appealing. <br/>
