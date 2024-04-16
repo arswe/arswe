@@ -4,6 +4,36 @@
 
 🚀 He crafts responsive websites where technologies meet creativity With a keen eye for design aesthetics and a knack for crafting seamless user experiences, he bring digital ideas to life with Programming, Internet, Framework, Database, Git, API Design, Integration, Cloud.
 
+```javascript
+const abdurRahman = {
+  pronouns: 'He' | 'Him',
+  code: ['Javascript', 'Typescript', 'Java'],
+  askMeAbout: ['web dev', 'tech', 'app dev', 'design'],
+  technologies: {
+    frontEnd: {
+      js: ['React', 'Next', 'Angular'],
+      css: ['Material-UI', 'Bootstrap', 'Tailwind'],
+    },
+    backEnd: {
+      js: ['Node', 'Express', 'Nest'],
+      java: ['Spring Boot'],
+    },
+    databases: ['MySQL', 'Postgres', 'MongoDB'],
+    devOps: ['Docker', 'AWS', 'Nginx'],
+    misc: ['Firebase', 'Prisma', 'GraphQL'],
+  },
+  architecture: ['Serverless Architecture', 'Progressive Web Applications', 'Single Page Applications'],
+  currentFocus: 'Frontend Development',
+  funFact: 'There are two ways to write error-free programs; only the third one works',
+}
+```
+
+####
+
+![Profile views](https://gpvc.arturio.dev/arswe)
+[![GitHub followers](https://img.shields.io/github/followers/arswe.svg?style=social&label=Follow&maxAge=2592000)]
+[![website](https://img.shields.io/badge/Portfolio-Website-2648ff?style=flat-square&logo=google-chrome)](https://arswe.github.io/)
+
 :coffee: &emsp;Connect with me!
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/EFNBCQZZPD4TK1) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmansoftw@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arswe) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/AbdurRahmanswe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/arswes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arsweins/) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@arsweins)<br/>
