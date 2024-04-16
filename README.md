@@ -17,39 +17,10 @@
 ⚡  Fun fact: I love to travel and explore new places <br/>
 📫  How to reach me: mailto: abdurrahmansoftw@gmail.com <br/>
 
-### 🛠 &nbsp;Tech Stack
-
-```Typescript | Javascript
-const abdurRahman = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "Java"],
-  askMeAbout: ["Full Stack Javascript | TypeScript Software Engineer"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next"],
-      ts: ["React", "Next", "Angular"],
-      css: ["Material-UI", "Tailwind CSS", "Radix UI", "DaisyUI", "Chakra UI", "Styled-Components",]
-
-    },
-    backEnd: {
-      js: ["Node", "Express", "Nest"],
-      ts: ["ts-Node", "Express", "Nest"],
-    },
-    databases: ["MySQL", "Postgres", "MongoDB"],
-    devOps: ["Docker", "AWS"],
-    misc: ["Firebase", "GraphQL", "Prisma", "Redux", "Redux Toolkit", "React Query", "Testing Library"],
-    orm: ["Prisma","TypeORM", "Sequelize"],
-  },
-  architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
-  currentFocus: "Full Stack Javascript | TypeScript Software Engineer",
-  funFact: "There are two ways to write error-free programs; only the third one works",
-};
-```
-
 <br/>
 More It has always been my passion to learn new things, explore new ideas and thoughts and emphasized on self-development. It has always been my focus on every available opportunity to improve myself skills. I want to pursue my goals with dedication, sincerity, honesty and hard work.
 
-#### Programming Fundamentals
+#### Languages
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 
@@ -59,7 +30,7 @@ More It has always been my passion to learn new things, explore new ideas and th
 
 [![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)](#) [![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)](#) [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](#) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](#) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
 
-#### Others
+#### Back-End Development
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#) [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#) [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
