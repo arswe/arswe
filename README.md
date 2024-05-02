@@ -8,7 +8,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/EFNBCQZZPD4TK1) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmansoftw@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arswe) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/AbdurRahmanswe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/AbdurRahmans) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_abdurrahmans_/) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@_abdurrahmans_)<br/>
 
-♥️    I enjoy programming and sharing knowledge with others <br/>
+♥️   I enjoy programming and sharing knowledge with others <br/>
 🌱  I’m currently learning FullStack JS | TS Software Engineering <br/>
 👯  I’m looking to collaborate on open source projects <br/>
 🔭  I’m currently working on a few projects <br/>
