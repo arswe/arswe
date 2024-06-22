@@ -50,7 +50,7 @@ More It has always been my passion to learn new things, explore new ideas and th
    <tr>
       <td><a href="https://financepr.vercel.app" target="_blank">Finance Pro</a></td>
       <td>Finance Pro is a web application that helps you manage your company's Finances</td>
-      <td> Client Project </td>
+      <td> University final project and thesis </td>
     </tr>
    <tr>
       <td><a href="https://github.com/arswe/attendance-management-system" target="_blank">Attendance Management System</a></td>
