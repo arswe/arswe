@@ -2,15 +2,15 @@
 
 ### 👋 AbdurRahman is a Software Enginner (React | Next | Angular) <br/>
 
-🚀 He crafts responsive websites where technologies meet creativity With a keen eye for design aesthetics and a knack for crafting seamless user experiences, he bring digital ideas to life with Programming, Internet, Framework, Database, Git, API Design, Integration, Cloud.
+🚀 He crafts responsive websites where technologies meet creativity With a keen eye for design aesthetics and a knack for crafting seamless user experiences, he brings digital ideas to life with Programming, Internet, Framework, Database, Git, API Design, Integration, Cloud.
 
 :coffee: &emsp;Connect with me! and 📫 How to reach me:
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/EFNBCQZZPD4TK1) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmansoftw@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arswe) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/AbdurRahmanswe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/AbdurRahmans) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_abdurrahmans_/) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@_abdurrahmans_)<br/>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/EFNBCQZZPD4TK1) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmansoftw@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arswe) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/AbdurRahmanswe) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/user/AbdurRahmansoftw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_abdurrahmans_/) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@_abdurrahmans_)<br/>
 
 ♥️   I enjoy programming and sharing knowledge with others <br/>
 🌱  I’m currently learning FullStack JS | TS Software Engineering <br/>
-👯  I’m looking to collaborate on open source projects <br/>
+👯  I’m looking to collaborate on open-source projects <br/>
 🔭  I’m currently working on a few projects <br/>
 💬  Ask me about anything related to Javascript, Typescript <br />
 📚  I love to read books and learn new things <br/>
@@ -18,7 +18,7 @@
 📫  How to reach me: mailto: abdurrahmansoftw@gmail.com <br/>
 
 <br/>
-More It has always been my passion to learn new things, explore new ideas and thoughts and emphasized on self-development. It has always been my focus on every available opportunity to improve myself skills. I want to pursue my goals with dedication, sincerity, honesty and hard work.
+It has always been my passion to learn new things, explore new ideas and thoughts, and emphasize on self-development. I have always focused on every available opportunity to improve my skills. I want to pursue my goals with dedication, sincerity, honesty, and hard work.
 
 #### Languages
 
