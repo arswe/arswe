@@ -43,7 +43,7 @@ It has always been my passion to learn new things, explore new ideas and thought
     <tr border: none;>
       <td><b>Project Name</b></td>
       <td><b>Description</b></td>
-      <td><b> Making For </b></td>
+      <td><b>Application</b></td>
     </tr>
   </thead>
   <tbody>
